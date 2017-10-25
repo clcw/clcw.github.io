@@ -7,7 +7,7 @@ description: "风中的蒲草的博客，开始我的新生活。"
 keyword: "风中的蒲草,蒲草,java,xixily,aixf,javascript,html"
 url: "http://clcw.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/xixily/xixily.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -55,12 +55,12 @@ kramdown:
 
 
 # 评论系统
-# Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+# Disqus settings（https://aixf.com/）
+disqus_username: xixily
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
-# duoshuo_username: qiubaiying
+# duoshuo_username: xixily
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -95,10 +95,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://wwwlbaidu.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
